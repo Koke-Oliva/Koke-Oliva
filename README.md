@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Bienvenido a mi perfil de GitHub  
 
-<!--
-**Koke-Oliva/Koke-Oliva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Jorge Auad Oliva**, **Ingeniero Estadístico** con pasión por transformar datos en conocimiento y soluciones inteligentes.  
+🎯 Enfocado en desempeñarme como **Científico de Datos** e **Ingeniero de Machine Learning**, aplicando análisis estadístico, modelado predictivo y técnicas de ciencia de datos para la toma de decisiones.  
 
-Here are some ideas to get you started:
+Me titulé como **Ingeniero Estadístico en la Universidad del Bío-Bío** y recientemente finalicé una **especialización en Machine Learning (bootcamp de 198 horas)**.  
+Además, cuento con experiencia en **desarrollo web Full Stack con Java** y he aplicado técnicas de análisis de datos en proyectos vinculados a salud, ciencias sociales y desempeño organizacional.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Mi interés está en seguir aprendiendo, construyendo proyectos que integren estadística, ciencia de datos y desarrollo de software, con impacto positivo en las organizaciones.  
+
+📂 Puedes explorar mis proyectos [aquí](https://github.com/Koke-Oliva?tab=repositories).  
+
+---
+
+### 🌐 Conecta conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-auad-oliva/)  
+📧 jorgeauad.oliva@gmail.com  
+
+---
