@@ -4,7 +4,7 @@ Soy **Jorge Auad Oliva**, **Ingeniero Estadístico** con pasión por transformar
 🎯 Enfocado en desempeñarme como **Científico de Datos** e **Ingeniero de Machine Learning**, aplicando análisis estadístico, modelado predictivo y técnicas de ciencia de datos para la toma de decisiones.  
 
 Me titulé como **Ingeniero Estadístico en la Universidad del Bío-Bío** y recientemente finalicé una **especialización en Machine Learning (bootcamp de 198 horas)**.  
-Además, cuento con experiencia en **desarrollo web Full Stack con Java** y he aplicado técnicas de análisis de datos en proyectos vinculados a salud, ciencias sociales y desempeño organizacional.  
+Además, realicé un **Bootcamp en Desarrollo de Aplicaciones Full Stack con Java (480 horas)**, que me permitió fortalecer mis habilidades en programación y manejo de proyectos tecnológicos.  
 
 🔍 Mi interés está en seguir aprendiendo, construyendo proyectos que integren estadística, ciencia de datos y desarrollo de software, con impacto positivo en las organizaciones.  
 
