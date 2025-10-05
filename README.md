@@ -8,7 +8,7 @@ Además, realicé un **Bootcamp en Desarrollo de Aplicaciones Full Stack con Jav
 
 🔍 Mi interés está en seguir aprendiendo, construyendo proyectos que integren estadística, ciencia de datos y machine learning, con impacto positivo en las organizaciones.  
 
-📂 Puedes explorar mis proyectos [aquí](https://github.com/Koke-Oliva?tab=repositories).  
+📂 Puedes explorar mis proyectos <a href="https://github.com/Koke-Oliva?tab=repositories" target="_blank">aquí</a>.  
 
 ---
 
@@ -31,9 +31,14 @@ Además, realicé un **Bootcamp en Desarrollo de Aplicaciones Full Stack con Jav
 
 ---
 
+### 🌐 Conecta conmigo  
 
-### 🌐 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-auad-oliva/)  
-📧 jorgeauad.oliva@gmail.com  
+<a href="https://www.linkedin.com/in/jorge-auad-oliva/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>  
+
+<a href="mailto:jorgeauad.oliva@gmail.com?subject=Contacto%20desde%20GitHub" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>  
 
 ---
