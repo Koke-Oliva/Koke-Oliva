@@ -8,7 +8,8 @@ Además, realicé un **Bootcamp en Desarrollo de Aplicaciones Full Stack con Jav
 
 🔍 Mi interés está en seguir aprendiendo, construyendo proyectos que integren estadística, ciencia de datos y machine learning, con impacto positivo en las organizaciones.  
 
-📂 Puedes explorar mis proyectos <a href="https://github.com/Koke-Oliva?tab=repositories" target="_blank">aquí</a>.  
+📂 Puedes explorar mis proyectos <a href="https://github.com/Koke-Oliva/portafolio-proyectos" target="_blank">aquí</a>.
+  
 
 ---
 
