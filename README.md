@@ -1,7 +1,8 @@
 # 👋 Bienvenido a mi perfil de GitHub  
 
-Soy Jorge Auad Oliva, Ingeniero Estadístico especializado en Ciencia de Datos y Machine Learning.
-Aplico técnicas de análisis estadístico, aprendizaje automático y NLP para convertir datos en decisiones inteligentes. 
+Soy Jorge Auad Oliva, Ingeniero Estadístico especializado en Ciencia de Datos y Machine Learning. Aplico técnicas de análisis estadístico, aprendizaje automático y procesamiento de lenguaje natural (NLP) para transformar datos en información valiosa para la toma de decisiones.
+
+Mi objetivo profesional es incorporarme a una empresa donde pueda aplicar y seguir desarrollando mis habilidades en Data Science y Machine Learning. Trabajo principalmente con Python, aunque también tengo experiencia en R. 
 
 📂 Puedes explorar mis proyectos <a href="https://github.com/Koke-Oliva/portafolio-proyectos" target="_blank">aquí</a>.
   
