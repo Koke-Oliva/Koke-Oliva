@@ -13,16 +13,35 @@ Trabajo con Python, SQL, R y Power BI en proyectos de análisis de datos, Machin
 ## Proyectos destacados
 
 ### [Interpretabilidad de Scoring Crediticio](https://github.com/Koke-Oliva/Interpretabilidad-de-Scoring-Crediticio)
+
+<a href="https://github.com/Koke-Oliva/Interpretabilidad-de-Scoring-Crediticio">
+  <img src="https://raw.githubusercontent.com/Koke-Oliva/portafolio-proyectos/main/images/score_crediticio.jpeg" alt="Interpretabilidad de Scoring Crediticio" width="560">
+</a>
+
 Regresión Logística + Random Forest, validación cruzada sin leakage, análisis de umbral, SHAP/LIME y diagnóstico por subgrupos.
 
 **Resultado:** ROC-AUC **0.8394** · PR-AUC **0.8287**
 
+---
+
 ### [Clasificación de Notas Clínicas con BETO](https://github.com/Koke-Oliva/nlp-notas-clinicas-bert)
+
+<a href="https://github.com/Koke-Oliva/nlp-notas-clinicas-bert">
+  <img src="https://raw.githubusercontent.com/Koke-Oliva/portafolio-proyectos/main/images/notas_clinicas.png" alt="Clasificación de Notas Clínicas con BETO" width="560">
+</a>
+
 NLP en español con TF-IDF, Word2Vec, Random Forest y BETO. Auditoría de duplicados, target proxies y shortcut learning; validación con templates no vistos y explicabilidad LIME.
 
 **Hallazgo:** CV aleatoria con métricas casi perfectas pierde gran parte del desempeño al evaluar generalización estructural.
 
+---
+
 ### [Breast Cancer API — MLOps](https://github.com/Koke-Oliva/breast_cancer_api)
+
+<a href="https://github.com/Koke-Oliva/breast_cancer_api">
+  <img src="https://raw.githubusercontent.com/Koke-Oliva/portafolio-proyectos/main/images/ml_ops.png" alt="Breast Cancer API — MLOps" width="500">
+</a>
+
 Random Forest servido mediante Flask/Gunicorn, Docker, model card, tests de endpoints, smoke tests y CI/CD con GitHub Actions + GHCR.
 
 **Resultado:** F1 **0.9512** · ROC-AUC **0.9974** · Brier **0.0285**
