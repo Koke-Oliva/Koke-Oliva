@@ -102,6 +102,7 @@ Trabajo con Python, SQL, R y Power BI en proyectos de análisis de datos, Machin
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
 ### NLP
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
@@ -123,6 +124,7 @@ Trabajo con Python, SQL, R y Power BI en proyectos de análisis de datos, Machin
 
 ## Otros proyectos de datos
 
+- [HESPE — PySpark ML Pipeline](https://github.com/Koke-Oliva/hespe-pyspark-student-performance) — Spark ML, CV estratificado, tuning y análisis multiclase/ordinal.
 - [Admisión Escolar en R](https://github.com/Koke-Oliva/admision-escolar-r) — validación, KPIs y reporte reproducible.
 - [Monitoreo MCA — Alertas Tempranas](https://github.com/Koke-Oliva/monitoreo-mca-alertas-tempranas) — Python, SQLite, Excel e indicadores operativos.
 - [SQL Server — Gestión de Datos Escolares](https://github.com/Koke-Oliva/sql-server-gestion-colegio) — modelado relacional y consultas.
