@@ -92,6 +92,40 @@ Trabajo con Python, SQL, R y Power BI en proyectos de análisis de datos, Machin
   </tr>
 </table>
 
+<table align="center" width="34%">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Koke-Oliva/hespe-pyspark-student-performance">
+        <img src="https://raw.githubusercontent.com/Koke-Oliva/hespe-pyspark-student-performance/main/assets/hespe_data_science_pyspark.jpg" alt="HESPE — Data Science con PySpark y Spark ML" width="210" height="118">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/Koke-Oliva/hespe-pyspark-student-performance">
+        <strong>HESPE — Data Science con PySpark y Spark ML</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      EDA, preparación distribuible, clasificación multiclase, CV estratificado, tuning y evaluación ordinal con Spark ML.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <code>Python</code> <code>PySpark</code><br>
+      <code>Apache Spark</code> <code>Spark ML</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <strong>Evidencia técnica</strong><br>
+      Weighted F1 <strong>0.3150</strong> · <strong>62.07%</strong> a ±1 categoría
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Stack técnico
@@ -103,6 +137,8 @@ Trabajo con Python, SQL, R y Power BI en proyectos de análisis de datos, Machin
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-Distributed-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Spark ML](https://img.shields.io/badge/Spark%20ML-Pipelines-F28E2B?style=flat)
 
 ### NLP
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
@@ -124,7 +160,6 @@ Trabajo con Python, SQL, R y Power BI en proyectos de análisis de datos, Machin
 
 ## Otros proyectos de datos
 
-- [HESPE — PySpark ML Pipeline](https://github.com/Koke-Oliva/hespe-pyspark-student-performance) — Spark ML, CV estratificado, tuning y análisis multiclase/ordinal.
 - [Admisión Escolar en R](https://github.com/Koke-Oliva/admision-escolar-r) — validación, KPIs y reporte reproducible.
 - [Monitoreo MCA — Alertas Tempranas](https://github.com/Koke-Oliva/monitoreo-mca-alertas-tempranas) — Python, SQLite, Excel e indicadores operativos.
 - [SQL Server — Gestión de Datos Escolares](https://github.com/Koke-Oliva/sql-server-gestion-colegio) — modelado relacional y consultas.
