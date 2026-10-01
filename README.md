@@ -12,39 +12,61 @@ Trabajo con Python, SQL, R y Power BI en proyectos de análisis de datos, Machin
 
 ## Proyectos destacados
 
-### [Interpretabilidad de Scoring Crediticio](https://github.com/Koke-Oliva/Interpretabilidad-de-Scoring-Crediticio)
-
-<a href="https://github.com/Koke-Oliva/Interpretabilidad-de-Scoring-Crediticio">
-  <img src="https://raw.githubusercontent.com/Koke-Oliva/portafolio-proyectos/main/images/score_crediticio.jpeg" alt="Interpretabilidad de Scoring Crediticio" width="560">
-</a>
-
-Regresión Logística + Random Forest, validación cruzada sin leakage, análisis de umbral, SHAP/LIME y diagnóstico por subgrupos.
-
-**Resultado:** ROC-AUC **0.8394** · PR-AUC **0.8287**
-
----
-
-### [Clasificación de Notas Clínicas con BETO](https://github.com/Koke-Oliva/nlp-notas-clinicas-bert)
-
-<a href="https://github.com/Koke-Oliva/nlp-notas-clinicas-bert">
-  <img src="https://raw.githubusercontent.com/Koke-Oliva/portafolio-proyectos/main/images/notas_clinicas.png" alt="Clasificación de Notas Clínicas con BETO" width="560">
-</a>
-
-NLP en español con TF-IDF, Word2Vec, Random Forest y BETO. Auditoría de duplicados, target proxies y shortcut learning; validación con templates no vistos y explicabilidad LIME.
-
-**Hallazgo:** CV aleatoria con métricas casi perfectas pierde gran parte del desempeño al evaluar generalización estructural.
-
----
-
-### [Breast Cancer API — MLOps](https://github.com/Koke-Oliva/breast_cancer_api)
-
-<a href="https://github.com/Koke-Oliva/breast_cancer_api">
-  <img src="https://raw.githubusercontent.com/Koke-Oliva/portafolio-proyectos/main/images/ml_ops.png" alt="Breast Cancer API — MLOps" width="500">
-</a>
-
-Random Forest servido mediante Flask/Gunicorn, Docker, model card, tests de endpoints, smoke tests y CI/CD con GitHub Actions + GHCR.
-
-**Resultado:** F1 **0.9512** · ROC-AUC **0.9974** · Brier **0.0285**
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Koke-Oliva/Interpretabilidad-de-Scoring-Crediticio">
+        <img src="https://raw.githubusercontent.com/Koke-Oliva/portafolio-proyectos/main/images/score_crediticio.jpeg" alt="Interpretabilidad de Scoring Crediticio" width="100%">
+      </a>
+      <br><br>
+      <a href="https://github.com/Koke-Oliva/Interpretabilidad-de-Scoring-Crediticio"><strong>Interpretabilidad de Scoring Crediticio</strong></a>
+      <br><br>
+      Regresión Logística + Random Forest, validación cruzada sin leakage, análisis de umbral y explicabilidad SHAP/LIME.
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+      <img src="https://img.shields.io/badge/SHAP-Explainability-6F4E7C?style=flat" alt="SHAP">
+      <img src="https://img.shields.io/badge/LIME-Explainability-00A98F?style=flat" alt="LIME">
+      <br><br>
+      <strong>Resultado principal</strong><br>
+      ROC-AUC <strong>0.8394</strong> · PR-AUC <strong>0.8287</strong>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Koke-Oliva/nlp-notas-clinicas-bert">
+        <img src="https://raw.githubusercontent.com/Koke-Oliva/portafolio-proyectos/main/images/notas_clinicas.png" alt="Clasificación de Notas Clínicas con BETO" width="100%">
+      </a>
+      <br><br>
+      <a href="https://github.com/Koke-Oliva/nlp-notas-clinicas-bert"><strong>Clasificación de Notas Clínicas con BETO</strong></a>
+      <br><br>
+      TF-IDF, Word2Vec, Random Forest y BETO con auditoría de duplicados, target proxies, shortcuts y explicabilidad LIME.
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white" alt="spaCy">
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat" alt="Hugging Face">
+      <img src="https://img.shields.io/badge/LIME-Explainability-00A98F?style=flat" alt="LIME">
+      <br><br>
+      <strong>Hallazgo principal</strong><br>
+      La CV aleatoria sobreestima fuertemente la generalización frente a templates no vistos.
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Koke-Oliva/breast_cancer_api">
+        <img src="https://raw.githubusercontent.com/Koke-Oliva/portafolio-proyectos/main/images/ml_ops.png" alt="Breast Cancer API MLOps" width="100%">
+      </a>
+      <br><br>
+      <a href="https://github.com/Koke-Oliva/breast_cancer_api"><strong>Breast Cancer API — MLOps</strong></a>
+      <br><br>
+      Random Forest servido con Flask/Gunicorn, Docker, model card, tests de endpoints, smoke tests y CI/CD con GHCR.
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions">
+      <br><br>
+      <strong>Resultado principal</strong><br>
+      F1 <strong>0.9512</strong> · ROC-AUC <strong>0.9974</strong> · Brier <strong>0.0285</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
